@@ -1,5 +1,11 @@
 @import url("//fonts.googleapis.com/css?family=Inconsolata:400,700|Abril+Fatface|Karla:400,400italic,700,700italic");
 
+.menu-icon {
+  line-height: 20px;
+  position: static;
+  font-size: 20px !important;
+}
+
 .container {
   font: 18px/1.5 Karla, sans-serif;
   max-width: 40em;
