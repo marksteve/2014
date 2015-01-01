@@ -1,5 +1,4 @@
 matplotlib
 pandas
 requests
-requests-oauthlib
 textblob
